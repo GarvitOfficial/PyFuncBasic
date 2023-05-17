@@ -3,7 +3,7 @@
 
 <!-- Project Description -->
 <p align="center">
-    <img src="https://example.com/dark_theme_logo.png" alt="Project Logo" width="200">
+    <img src="[https://example.com/dark_theme_logo.png](https://images.unsplash.com/photo-1551150441-3f3828204ef0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)" alt="Project Logo" width="200">
 </p>
 <p align="center">A collection of Python utilities and examples to boost your productivity.</p>
 
