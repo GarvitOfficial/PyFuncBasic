@@ -63,6 +63,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- Footer -->
 <p align="center">
-    <a href="https://github.com/your-username" target="_blank">GitHub</a> |
-    <a href="https://your-website.com" target="_blank">Website</a>
+    <a href="https://github.com/garvitofficial" target="_blank">GitHub</a> |
+    <a href="http://www.ownerofgmt.tk" target="_blank">Website</a>
 </p>
